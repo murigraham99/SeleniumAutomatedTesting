@@ -4,7 +4,7 @@ import requests
 
 class OpenaiApi:
     def __init__(self):
-        self.api_key = ""
+        self.api_key = "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"
         pass
 
     def request_answer_openai(self, prompt, temperature, tokens):
