@@ -1,4 +1,4 @@
-# HistoryGame
+# Testing
 
 Tested my colegues' web app, using unittest and Selenium. 
 
